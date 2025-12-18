@@ -15,7 +15,7 @@ The site uses:
 ✔ Clean article cards with images, titles, authors & metadata
 ✔ Clickable category tabs to load different sections instantly
 
-✨ Features
+✨ Features 
 
 🔹 Browse multiple news categories
 
